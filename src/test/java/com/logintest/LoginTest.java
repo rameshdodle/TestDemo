@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 public class LoginTest {
     @Test
-    public void loginTest(){
+    public void launchPageURL(){
         WebDriverManager.chromedriver().setup();
         WebDriver driver=new ChromeDriver();
         driver.get("https://www.adobe.com/");
