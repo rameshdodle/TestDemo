@@ -2,12 +2,12 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-05T17:39:36Z" name="com.logintest.LoginTest" finished-at="2021-09-05T17:39:40Z" duration-ms="3941">
+  <suite started-at="2021-09-07T08:14:36Z" name="com.logintest.LoginTest" finished-at="2021-09-07T08:14:48Z" duration-ms="11939">
     <groups>
     </groups>
-    <test started-at="2021-09-05T17:39:36Z" name="Command line test" finished-at="2021-09-05T17:39:40Z" duration-ms="3941">
+    <test started-at="2021-09-07T08:14:36Z" name="Command line test" finished-at="2021-09-07T08:14:48Z" duration-ms="11939">
       <class name="com.logintest.LoginTest">
-        <test-method signature="launchPageURL()[pri:0, instance:com.logintest.LoginTest@25d250c6]" started-at="2021-09-05T23:09:36Z" name="launchPageURL" finished-at="2021-09-05T23:09:40Z" duration-ms="3934" status="PASS">
+        <test-method signature="launchPageURL()[pri:0, instance:com.logintest.LoginTest@25d250c6]" started-at="2021-09-07T13:44:36Z" name="launchPageURL" finished-at="2021-09-07T13:44:48Z" duration-ms="11893" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchPageURL -->
